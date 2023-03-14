@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Manipulação de DOM</title>
+  </head>
+  <body>
+    <h1 id="titulo">Revisão JS</h1>
+    <button id="botao">Clique aqui</button>
+    <script>
+      var botao = document.getElementById("botao");
+      botao.addEventListener("click", function() {
+        var titulo = document.getElementById("titulo");
+        titulo.innerHTML = "Olá, Ewerton!";
+        alert("Botão clicado!");
+      });
+    </script>
+  </body>
+</html>
+
