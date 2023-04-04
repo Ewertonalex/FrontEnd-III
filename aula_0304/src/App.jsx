@@ -30,6 +30,7 @@ function App() {
   );
 }
 
+export default App;
 
 
 
@@ -53,7 +54,7 @@ function App() {
 //   );
 // }
 
-export default App;
+
 
 
 
