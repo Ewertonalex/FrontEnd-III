@@ -1,0 +1,74 @@
+/* estilo global */
+/* body {
+  background-color: #d77d7d;
+  font-size: 50px;
+}
+
+img {
+  border: 50px solid #ccc;
+} */
+
+/* Estilos para o formulário */
+form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+form label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #555;
+}
+
+form input,
+form textarea {
+  padding: 10px;
+  font-size: 16px;
+  color: #555;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+form input:focus,
+form textarea:focus {
+  outline: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
+form button[type="submit"] {
+  background-color: #0057ff;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+form button[type="submit"]:hover {
+  background-color: #0043ff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Estilos para o cabeçalho */
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  font-size: 36px;
+  font-weight: bold;
+  color: #555;
+}
+
