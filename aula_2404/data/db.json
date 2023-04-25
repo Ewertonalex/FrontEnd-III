@@ -1,0 +1,28 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Ewerton",
+      "email": "ewerton@teste.com",
+      "curso": "SIP"
+    },
+    {
+      "id": 2,
+      "nome": "Enzo",
+      "email": "enzo@teste.com",
+      "curso": "Medicina"
+    },
+    {
+      "id": 3,
+      "nome": "Matteo",
+      "email": "matteo@teste.com",
+      "curso": "Medicina"
+    },
+    {
+      "nome": "Rubia",
+      "email": "rubia@teste.com",
+      "curso": "Psicologia",
+      "id": 4
+    }
+  ]
+}
