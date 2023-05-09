@@ -23,6 +23,12 @@
       "email": "rubia@teste.com",
       "curso": "Psicologia",
       "id": 4
+    },
+    {
+      "nome": "Luan",
+      "email": "ocara@salesforce.com",
+      "curso": "CEO da Sotelli",
+      "id": 5
     }
   ]
 }
