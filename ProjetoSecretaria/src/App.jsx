@@ -1,9 +1,10 @@
 import Alunos from './components/Alunos';
+import './components/global.css';
+
 
 function App() {
   return (
     <div>
-      <h1>Lista de Alunos</h1>
       <Alunos />
     </div>
   );

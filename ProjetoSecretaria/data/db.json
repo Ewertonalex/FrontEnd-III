@@ -1,0 +1,22 @@
+{
+  "alunos": [
+    {
+      "nome": "Enzo",
+      "email": "enzox@teste.com",
+      "curso": "Medicina",
+      "id": 2
+    },
+    {
+      "nome": "Matteo",
+      "email": "matteo@teste.com",
+      "curso": "Medicina",
+      "id": 3
+    },
+    {
+      "nome": "Rubia",
+      "email": "rubialopes@teste.com",
+      "curso": "Psicologia",
+      "id": 4
+    }
+  ]
+}

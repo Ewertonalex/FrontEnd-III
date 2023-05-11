@@ -1,0 +1,10 @@
+{
+  "alunos": [
+    {
+      "nome": "Ewerton",
+      "idade": "38",
+      "posicao": "Atacante",
+      "id": 1
+    }
+  ]
+}
