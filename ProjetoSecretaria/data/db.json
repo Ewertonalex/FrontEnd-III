@@ -17,6 +17,12 @@
       "email": "rubialopes@teste.com",
       "curso": "Psicologia",
       "id": 4
+    },
+    {
+      "nome": "Ewerton",
+      "email": "ewertonlgk20@gmail.com",
+      "curso": "SIP",
+      "id": 5
     }
   ]
 }

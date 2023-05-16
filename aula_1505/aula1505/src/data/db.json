@@ -1,0 +1,23 @@
+{
+    "noticias": [
+      {
+        "id": 1,
+        "titulo": "UNIESP abre inscrições para vestibular de verão",
+        "subtitulo": "Confira as informações sobre o processo seletivo",
+        "texto": "A UNIESP está com inscrições abertas para o vestibular de verão. Os interessados podem se inscrever até o dia 30 de novembro e a prova será realizada no dia 10 de dezembro. São oferecidos cursos de graduação em diversas áreas, como Direito, Administração, Engenharia, entre outros."
+      },
+      {
+        "id": 2,
+        "titulo": "UNIESP firma parceria com empresas de tecnologia",
+        "subtitulo": "Saiba mais sobre as oportunidades para os alunos",
+        "texto": "A UNIESP acaba de fechar parceria com empresas de tecnologia para oferecer oportunidades de estágio e emprego para os alunos. A iniciativa faz parte do compromisso da instituição em formar profissionais qualificados e preparados para o mercado de trabalho."
+      },
+      {
+        "id": 3,
+        "titulo": "UNIESP é destaque no Enade 2022",
+        "subtitulo": "Confira o desempenho dos alunos nos cursos de graduação",
+        "texto": "A UNIESP foi destaque no Enade 2022, com vários cursos de graduação obtendo notas altas. O resultado é fruto do trabalho dos professores e alunos, que se empenharam em buscar a excelência acadêmica. A UNIESP reafirma o compromisso com a qualidade de ensino e a formação de profissionais de excelência."
+      }
+    ]
+  }
+  
