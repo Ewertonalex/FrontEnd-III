@@ -1,28 +1,11 @@
 {
   "alunos": [
     {
-      "nome": "Enzo",
-      "email": "enzox@teste.com",
-      "curso": "Medicina",
-      "id": 2
-    },
-    {
-      "nome": "Matteo",
-      "email": "matteo@teste.com",
-      "curso": "Medicina",
-      "id": 3
-    },
-    {
-      "nome": "Rubia",
-      "email": "rubialopes@teste.com",
-      "curso": "Psicologia",
-      "id": 4
-    },
-    {
-      "nome": "Ewerton",
-      "email": "ewertonlgk20@gmail.com",
-      "curso": "SIP",
-      "id": 5
+      "nome": "Luís",
+      "email": "jhonscreid18@gmail.com",
+      "curso": "Design",
+      "imagemUrl": "http://res.cloudinary.com/dfut42yzs/image/upload/v1684607484/test/pucy05nvwbava0lze0xp.png",
+      "id": 1
     }
   ]
 }
