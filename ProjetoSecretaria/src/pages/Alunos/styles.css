@@ -1,0 +1,60 @@
+/* Definição de variáveis */
+:root {
+  --bg-color: #222;
+  --text-color: #fff;
+  --highlight-color: #00ff00;
+  --main-color: #dd2e2e;
+  --logo-width: 100px;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: var(--bg-color);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.logo {
+  width: var(--logo-width);
+  margin-bottom: 1rem;
+}
+
+.logo2 {
+  width: var(--logo-width);
+  margin-bottom: 1rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+button {
+  margin-left: 1rem;
+}
+
+/* Estilos do filtro */
+label[for="filtro"] {
+  margin-right: 0.5rem;
+}
+
+input[type="text"]#filtro {
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: none;
+  border-radius: 0.25rem;
+  background-color: #333;
+  color: var(--text-color);
+  font-size: 1.2rem;
+}

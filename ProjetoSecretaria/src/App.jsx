@@ -1,6 +1,5 @@
-import Alunos from './components/Alunos';
-import './components/global.css';
-
+import Alunos from "./pages/Alunos";
+import "./components/global.css";
 
 function App() {
   return (
