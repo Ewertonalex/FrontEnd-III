@@ -1,11 +1,32 @@
 {
   "alunos": [
     {
-      "nome": "Luís",
-      "email": "jhonscreid18@gmail.com",
-      "curso": "Design",
-      "imagemUrl": "http://res.cloudinary.com/dfut42yzs/image/upload/v1684607484/test/pucy05nvwbava0lze0xp.png",
+      "nome": "Ewerton Alexander",
+      "email": "ewertonlgk20@gmail.com",
+      "curso": "SIP",
+      "imagemUrl": "http://res.cloudinary.com/dfut42yzs/image/upload/v1684610645/test/d4kebklj4mu4zqse3ogp.jpg",
       "id": 1
+    },
+    {
+      "nome": "Hugo Oliveira",
+      "email": "hugo@teste.com",
+      "curso": "Ed Física",
+      "imagemUrl": "http://res.cloudinary.com/dfut42yzs/image/upload/v1684610689/test/ywx5rgmoo4uti3zdehvy.jpg",
+      "id": 2
+    },
+    {
+      "nome": "Wagner Patrício",
+      "email": "wagner@gmail.com",
+      "curso": "Direito",
+      "imagemUrl": "http://res.cloudinary.com/dfut42yzs/image/upload/v1684610738/test/ragzmguuqbd08jhgoogz.jpg",
+      "id": 3
+    },
+    {
+      "nome": "Kelson Almeida",
+      "email": "kelson@teste.com",
+      "curso": "Medicina",
+      "imagemUrl": "http://res.cloudinary.com/dfut42yzs/image/upload/v1684610856/test/yfeju5sprk2fn6dcvmx3.jpg",
+      "id": 4
     }
   ]
 }
